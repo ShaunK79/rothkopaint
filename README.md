@@ -1,2 +1,2 @@
-# FCC-rothkopaint
-freecodecamp CSS project of a Rothko Painting
+# rothkopaint
+CSS project of a Rothko Painting
